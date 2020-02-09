@@ -1,0 +1,41 @@
+.custom-user1{
+	height:420px;
+	width:480px;
+	margin-top:30px;
+	margin-left:35px;
+	background-image: url("../img/back.jpeg");
+}
+
+.custom-user2{
+	height:420px;
+	width:480px;
+	margin-top:30px;
+	margin-left:35px;
+	background-image: url("../img/back.jpeg");
+}
+
+.custom-left{
+	height:550px;
+	width:600px;
+	border:1px solid black;
+	margin-left:10px;
+
+}
+
+.custom-right{
+	height:550px;
+	width:600px;
+	border:1px solid black;
+	margin-left:100px;	
+}
+
+.custom-text-input{
+	margin-left:70px;
+	margin-top:30px;
+	width:350px;
+}
+.custom-button{
+	margin-top:25px;
+	margin-left:20px;
+	
+}
