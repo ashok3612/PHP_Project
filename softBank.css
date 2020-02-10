@@ -1,0 +1,39 @@
+#main_div{
+	height:95%;
+	width:20%;
+	background-color:#90ee90;
+	position:absolute;
+}
+
+
+.First_Buttons {
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  text-align:center;
+  border:1px solid black;
+  padding-top: 15px;
+  margin-top:2px;
+  background-color:white;
+}
+
+#button_two{
+	color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  text-align:center;
+  border:1px solid black;
+  margin-top:1px;
+  background-color:blue;
+}
+.button_two:hover{
+	background-color: #ccc;
+
+	}
+
+
+.First_Buttons:hover {
+  background-color: #ccc;
+}
